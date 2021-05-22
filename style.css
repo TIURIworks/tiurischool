@@ -45,6 +45,9 @@ body {
   z-index: 1;
 }
 
+.active {
+  background-color: #4CAF50;
+
 .dropdown-content a {
   float: none;
   color: black;

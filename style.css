@@ -45,9 +45,6 @@ body {
   z-index: 1;
 }
 
-.active {
-  background-color: #4CAF50;
-
 .dropdown-content a {
   float: none;
   color: black;
@@ -64,3 +61,6 @@ body {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+.active {
+  background-color: #4CAF50;
